@@ -1,0 +1,38 @@
+# This is our first Github workflow!
+
+name: App Workflow
+
+on:
+  push:
+    branches: [ "main" ]
+  pusll_request:
+    branches: [ "main" ]
+
+permissions:
+  contents: read
+
+jobs:
+
+
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v6
+
+    - name: Set up Python
+      uses: actions/setup-python@v6
+      with:
+        python-version: '3.11'
+
+    - name: Install poetry
+      run: |
+        curl -sSL https://install.python-poetry.org | python3 -
+        export PATH=$HOME/.local/bin:$PATH
+
+    - name: Intall dependencies using poetry
+      run: poetry run make install
+
+    - name: Lint with flake8
+      run: poetry run make check
