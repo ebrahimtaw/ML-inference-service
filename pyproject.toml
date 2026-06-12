@@ -13,7 +13,6 @@ dependencies = [
     "loguru (>=0.7.3,<0.8.0)",
     "sqlalchemy (>=2.0.50,<3.0.0)",
     "wemake-python-styleguide (>=1.6.2,<2.0.0)",
-    "pipely (>=0.3.0,<0.4.0)",
 ]
 
 [tool.poetry]
