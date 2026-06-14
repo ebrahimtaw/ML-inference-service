@@ -1,0 +1,41 @@
+2026-06-14 10:23:47.042 | INFO     | services.model_inference:load_model:61 - checking the existance of model config file at model/rf_db_v3
+2026-06-14 10:23:47.043 | INFO     | services.model_inference:load_model:73 - model rf_db_v3 exists! -> loading model configuraiton file
+2026-06-14 10:25:22.730 | INFO     | services.model_inference:load_model:61 - checking the existance of model config file at model/rf_db_v3
+2026-06-14 10:25:22.731 | INFO     | services.model_inference:load_model:73 - model rf_db_v3 exists! -> loading model configuraiton file
+2026-06-14 10:26:04.491 | INFO     | services.model_inference:predict:94 - making prediction!
+2026-06-14 10:27:30.601 | INFO     | services.model_inference:load_model:61 - checking the existance of model config file at model/rf_db_v3
+2026-06-14 10:27:30.602 | INFO     | services.model_inference:load_model:73 - model rf_db_v3 exists! -> loading model configuraiton file
+2026-06-14 10:27:30.614 | INFO     | services.model_inference:predict:94 - making prediction!
+2026-06-14 10:27:42.865 | INFO     | services.model_inference:load_model:61 - checking the existance of model config file at model/rf_db_v3
+2026-06-14 10:27:42.865 | INFO     | services.model_inference:load_model:73 - model rf_db_v3 exists! -> loading model configuraiton file
+2026-06-14 10:27:42.874 | INFO     | services.model_inference:predict:94 - making prediction!
+2026-06-14 10:27:54.542 | INFO     | services.model_inference:load_model:61 - checking the existance of model config file at model/rf_db_v3
+2026-06-14 10:27:54.542 | INFO     | services.model_inference:load_model:73 - model rf_db_v3 exists! -> loading model configuraiton file
+2026-06-14 10:27:54.552 | INFO     | services.model_inference:predict:94 - making prediction!
+2026-06-14 10:28:04.528 | INFO     | services.model_inference:load_model:61 - checking the existance of model config file at model/rf_db_v3
+2026-06-14 10:28:04.529 | INFO     | services.model_inference:load_model:73 - model rf_db_v3 exists! -> loading model configuraiton file
+2026-06-14 10:28:04.538 | INFO     | services.model_inference:predict:94 - making prediction!
+2026-06-14 10:28:09.147 | INFO     | services.model_inference:load_model:61 - checking the existance of model config file at model/rf_db_v3
+2026-06-14 10:28:09.147 | INFO     | services.model_inference:load_model:73 - model rf_db_v3 exists! -> loading model configuraiton file
+2026-06-14 10:28:09.155 | INFO     | services.model_inference:predict:94 - making prediction!
+2026-06-14 10:28:15.663 | INFO     | services.model_inference:load_model:61 - checking the existance of model config file at model/rf_db_v3
+2026-06-14 10:28:15.663 | INFO     | services.model_inference:load_model:73 - model rf_db_v3 exists! -> loading model configuraiton file
+2026-06-14 10:28:15.672 | INFO     | services.model_inference:predict:94 - making prediction!
+2026-06-14 10:31:05.636 | INFO     | services.model_inference:load_model:61 - checking the existance of model config file at model/rf_db_v3
+2026-06-14 10:31:05.636 | INFO     | services.model_inference:load_model:73 - model rf_db_v3 exists! -> loading model configuraiton file
+2026-06-14 10:31:06.625 | INFO     | services.model_inference:predict:94 - making prediction!
+2026-06-14 10:38:06.746 | INFO     | services.model_inference:load_model:61 - checking the existance of model config file at model/rf_db_v3
+2026-06-14 10:38:06.746 | INFO     | services.model_inference:load_model:73 - model rf_db_v3 exists! -> loading model configuraiton file
+2026-06-14 10:38:07.759 | INFO     | services.model_inference:predict:94 - making prediction!
+2026-06-14 10:52:53.741 | INFO     | services.model_inference:load_model:61 - checking the existance of model config file at model/rf_db_v3
+2026-06-14 10:52:53.741 | INFO     | services.model_inference:load_model:73 - model rf_db_v3 exists! -> loading model configuraiton file
+2026-06-14 10:54:12.532 | INFO     | services.model_inference:load_model:61 - checking the existance of model config file at model/rf_db_v3
+2026-06-14 10:54:12.532 | INFO     | services.model_inference:load_model:73 - model rf_db_v3 exists! -> loading model configuraiton file
+2026-06-14 10:54:29.280 | INFO     | services.model_inference:predict:94 - making prediction!
+2026-06-14 10:54:37.089 | INFO     | services.model_inference:predict:94 - making prediction!
+2026-06-14 11:03:26.775 | INFO     | services.model_inference:load_model:61 - checking the existance of model config file at model/rf_db_v3
+2026-06-14 11:03:26.775 | INFO     | services.model_inference:load_model:73 - model rf_db_v3 exists! -> loading model configuraiton file
+2026-06-14 11:29:36.266 | INFO     | services.model_inference:load_model:47 - checking the existance of model config file at model/rf_db_v3
+2026-06-14 11:29:36.266 | INFO     | services.model_inference:load_model:59 - model rf_db_v3 exists! -> loading model configuraiton file
+2026-06-14 11:29:37.762 | INFO     | services.model_inference:load_model:47 - checking the existance of model config file at model/rf_db_v3
+2026-06-14 11:29:37.762 | INFO     | services.model_inference:load_model:59 - model rf_db_v3 exists! -> loading model configuraiton file
