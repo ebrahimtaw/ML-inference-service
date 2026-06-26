@@ -1,12 +1,12 @@
 # Price Inference Microservice
 
-A simple end-to-end microservice template for deploying machine learning models. This project demonstrates a structured approach to building ML microservices with CI/CD integration, designed as a reference architecture for future ML service development.
+I've built this simple service project so that future complex ML microservices could use this structured microservice approach. This microservice is local with end-to-end Continuous Integration that even builds the model when not present.
 
 **Dataset source:** [Amsterdam Housing Dataset](https://www.kaggle.com/datasets) - apartment price predictions based on property features.
 
 ## What it does
 
-Send apartment details (size, bedrooms, year built, parking, etc.) to the API and get back a price prediction using a trained Random Forest model.
+Send apartment details (size, bedrooms, year built, parking, etc.) to the API and get back a price prediction using the Random Forest model.
 
 ## Quick start
 
